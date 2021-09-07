@@ -1,0 +1,39 @@
+.MainCalc {
+  height: 100%;
+  padding-bottom: 13.01ex;
+  /* width: 100%;
+  background-image: url("../images/background.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: max-content; */
+}
+.Linkcal {
+  /* text-decoration: ; */
+
+  position: relative;
+  color: rgb(255, 4, 4);
+  font-size: x-large;
+  font-weight: bolder;
+}
+.Text {
+  font-size: large;
+  color: rgb(208, 20, 255);
+}
+.Input {
+  font-size: medium;
+  color: white;
+  background-color: lightgreen;
+  border: dotted;
+}
+.Calcbutton {
+  height: 5ex;
+  background: linear-gradient(to right, rgb(123, 47, 158), rgb(201, 80, 24));
+  border: transparent;
+  border: thin;
+  color: white;
+  width: 20ex;
+  font-size: large;
+  font-weight: bolder;
+  padding: 0px;
+}
